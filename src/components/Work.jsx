@@ -1,6 +1,6 @@
 import React from "react";
 import { Col, Container, Row } from "react-bootstrap";
-import Reusable from "./reusable";
+import Reusable from "./Reusable";
 
 const Work = () => {
   return (
